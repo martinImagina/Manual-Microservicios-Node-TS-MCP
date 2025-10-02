@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Manual Paso a Paso](README.md)
